@@ -1,0 +1,349 @@
+1. Adagala Beatrice Kahai, VIHIGA COUNTY, ANC - YES
+2. Denar Joseph Hamisi, NOMINATED, ANC - YES
+3. Gimose Charles Gumini, HAMISI, ANC - ABSENT
+4. Ikana Fredrick Lusuli, SHINYALU, ANC - YES
+5. Injendi Moses Malulu, MALAVA, ANC - YES
+6. Kivai Ernest Ogesi, VIHHIGA, ANC - YES
+7. Omboko Milemba Jeremiah, EMUHAYA, ANC - NO
+8. Tandaza Kassim Sawa, MATUGA, ANC - ABSENT
+9. Koech Victor Kipngetich, CHEPALUNGU, CCM - ABSENT
+10. Baraza Patrick Simiyu, CHERANGANY, DAP K - NO
+11. Bisau Maurice Kakai, KIMININI, DAP K - NO
+12. Oyugi Dick Maungu, LUANDA, DAP K - NO
+13. Salasya Peter Kalerwa, MUMIAS EAST, DAP K - ABSENT
+14. Wamboka Nelson Jack, BUMULA, DAP K - NO
+15. Ruku, Geoffrey Kariuki Kiringa, MBEERE NORTH, DP - NO
+16. Kalasinga, Joseph Simiyu Wekesa Majimbo, KABUCHAI, FORD-K - ABSENT
+17. Makali, John Okwisia, KANDUYI, FORD K - YES
+18. Murumba, John Chikati, TONGAREN, FORD K - NO
+19. Wambilianga, Catherine Nanjala, BUNGOMA COUNTY, FORD-K - ABSENT
+20. Wanyonyi, Ferdinand Kevin, KWANZA, FORD K - YES
+21. Wanyonyi, Martin Pepela, WEBUYE WEST, FORD K - YES
+22. Muli, Fabian Kyule, KANGUNDO, GDDP - ABSENT
+23. Abdul, Rahim Dawood, NORTH IMENTI, IND - YES
+24. Ahmed, Shakeel Ahmed Shabbir, KISUMU EAST, IND - NO
+25. Caroline, Jeptoo Ng’elechei, ELGEYO MARAKWET, IND - YES
+26. Karauri, Ronald Kamwiko, KASARANI, IND - ABSENT
+27. Kitilai, Ole Ntutu, NAROK SOUTH, INDEPENDENT - YES
+28. Kururia, Elijah Njore Njoroge, GATUNDU NORTH, IND - ABSENT
+29. Marubu, Monicah Muthoni, LAMU COUNTY, IND - ABSENT
+30. Mohammed, Fatuma Full Network, MIGORI COUNTY, IND - NO
+31. Mulanya, Geoffrey Ekesa, NAMBALE, IND - YES
+32. Mwalyo, Joshua Mbithi Mutua, MASINGA, IND - YES
+33. Nebart, Bernard Muriuki, MBEERE SOUTH, IND - YES
+34. Timothy Kipchumba, MARAKWET WEST, IND - YES
+35. Abdirahman, Mohamed Abdi, LAFEY, JUBILEE - YES
+36. Arama, Samuel, NAKURU TOWN WEST, JUBILEE - YES
+37. Bonaya, Mumina Gollo, ISIOLO COUNTY, JUBILEE - ABSENT
+38. Chege, Sabina, NOMINATED, JUBILEE - SUSPENDED
+39. Hassan, Abdi Yusuf, KAMUKUNJI, JUBILEE - YES
+40. Ithinji, Dr. Shadrack Mwiti, SOUTH IMENTI, JUBILEE - YES
+41. Karitho, Kiili Daniel, IGEMBE CENTRAL, JUBILEE - YES
+42. Kiaraho, David Njuguna, OL KALOU, JUBILEE - YES
+43. Korere, Sarah Paulata, LAIKIPIA NORTH, JUBILEE - ABSENT
+44. Koyi, John Waluke, SIRISIA, JUBILEE - YES
+45. Kwenya, Thuku Zachary, KINANGOP, JUBILEE - YES
+46. Lomwa, Joseph Samal, ISOLO NORTH, JUBILEE - ABSENT
+47. Maina, Mwago Amos, STAREHE, JUBILEE - YES
+48. Mogaka, Stephen M., WEST MUGIRANGO, JUBILEE - YES
+49. Mohamed, Aden Daudi, WAJIR EAST, JUBILEE - YES
+50. Jerusha Momanyi, NYAMIRA COUNTY, ABSENT - JUBILEE
+51. Mrembo, Irene Njoki, BAHATI, JUBILEE - YES
+52. Muiruri, Muthama Stanley, LAMU WEST, JUBILEE - ABSENT
+53. Mwenje, Mark Muriithi, EMBAKASI WEST, JUBILEE - NO
+54. Ngikolong, Nicholas, TURKANA EAST, JUBILEE - YES
+55. Nyamai, Rachael Kaki, KITUI SOUTH, JUBILEE - YES
+56. Obo, Ruweida Mohamed, LAMU EAST, JUBILEE - ABSENT
+57. Pareiyo, Agnes Mantaine, NAROK NORTH, JUBILEE - YES
+58. Shake, Peter Mbogho, MWATATE, JUBILEE - NO
+59. Shurie, Abdi Omar, BALAMBALA, JUBILEE - ABSENT
+60. Siyad, Amina Udgoon, GARISSA, JUBILEE - ABSENT
+61. Tubi, Bidu Mohamed, ISIOLO SOUTH, JUBILEE - ABSENT
+62. Wehliye, Adan Keynan, ELDAS, JUBILEE - YES
+63. Abdullahi, Amina Dika, TANA RIVER COUNTY, KANU - YES
+64. Guyo, Adhe Wario, NORTH HORR, KANU - ABSENT
+65. Kassait, William Kamket, TIATY, KANU - YES
+66. Lentoijoni, Jackson, SAMBURU EAST, KANU - YES
+67. Lesuuda, Josephine Naisula, SAMBURU WEST, KANU - NO
+68. Sunkuli, Julius Lekakeny Ole, KILGORIS, KANU - NO
+69. Kasiwai, Rael, WEST POKOT COUNTY, KUP - YES
+70. Pkosing, David Losiakou, POKOT SOUTH, KUP - NO
+71. Titus, Lotee, KACHELIBA, KUP - ABSENT
+72. Mule, Caleb Mutiso, MACHAKOS TOWN, MCCP - YES
+73. Mutuse, Mwengi, KIBWEZI WEST, MCCP - ABSENT
+74. Ochieng, David Ouma, UGENYA, MDG - YES
+75. Abdi, Abdi Ali, IJARA, NAP K - YES
+76. Aburi, Lawrence Mpuru, TIGANIA EAST, NOPEU - YES
+77. Abdirahman, Hussein Weytan, MANDERA EAST, ODM - NO
+78. Abuor, Paul, RONGO, ODM - ABSENT
+79. Adow, Mohamed Aden, WAJIR SOUTH, ODM - YES
+80. Amollo, Paul Otiende, RARIEDA, ODM - ABSENT
+81. Samuel Onunga Atan Meli, ALEGO USONGA, ODM - NO
+82. Bady, Bady Twalib, JOMVU, ODM - NO
+83. Barongo, Nolfason Obadiah, BOMACHOGE BORABU, ODM - NO
+84. Bedzimba, Rashid Juma, KISAUNI, ODM - NO
+85. Ruth Adhiambo Odinga, KISUMU COUNTY, ODM - NO
+86. Buyu, Rozaah Akinyi, KISUMU WEST, ODM - SUSPENDED
+87. Chimba, Zamzam Mohamed, MOMBASA, ODM - NO
+88. Elachi, Beatrice, DAGORETTI NORTH, ODM - NO
+89. Farah, Yussuf Mohamed, WAJIR WEST, ODM - NO
+90. Francis, Kajwang’ Tom Joseph, RUARAKA, ODM - SUSPENDED
+91. Gisairo, Clive Ombane, KITUTU MASABA, ODM - NO
+92. Gogo, Lilian Achieng, RANGWE, ODM - NO
+93. Guyo, Ali Wario, GARSEN, ODM - NO
+94. Hamisi, Kakuta Maimai, KAJIADO EAST, ODM - ABSENT
+95. Hiribae, Said Buya, GALOLE, ODM - ABSENT
+96. Jehow, Fatuma Abdi, WAJIR COUNTY, ODM - NO
+97. Kaluma, George Peter Opondo, HOMA BAY TOWN, ODM - NO
+98. Kanchory, Elijah Memusi, KAJIADO CENTRAL, ODM - NO
+99. Katana, Paul Kahindi, KALOLENI, ODM - NO
+100. Khodhe, Phelix Odiwuor, LANGATA, ODM - ABSENT
+101. Kibagendi, Antoney, KITUTU CHACHE SOUTH, ODM - NO
+102. Kiti, Richard Ken Chonga, KILIFI SOUTH, ODM - NO
+103. Kombe, Harrison Garama, MAGARINI, ODM - ABSENT
+104. Luyai, Caleb Amisi, SABOTI, ODM - NO
+105. Machele, Mohamed Soud, MVITA, ODM - NO
+106. Manduku, Daniel, NYARIBARI MASABA, ODM - ABSENT
+107. Masara, Peter Francis, SUNA WEST, ODM - NO
+108. Masito, Fatuma Hamisi, KWALE COUNTY, ODM - ABSENT
+109. Mayaka, Irene Nyakerario, NOMINATED, ODM - ABSENT
+110. Mboko, Mishi Juma Khamisi, LIKONI, ODM - NO
+111. Mohamed, Abdikadir Hussein, LAGDERA, ODM - ABSENT
+112. Mohamed, Junet Sheikh Nuh, SUNA EAST, ODM - NO
+113. Mohamed, Umulkher Harun, NOMINATED, ODM - ABSENT
+114. Mugabe, Innocent Mainoo, LIKUYANI, ODM - NO
+115. Muhanda, Elsie Busihile, KAKAMEGA COUNTY, ODM - NO
+116. Mukhwana, Titus Khamala, LURAMBI, ODM - ABSENT
+117. Mwale, Nicholas S. Tindi, BUTERE, ODM - ABSENT
+118. Mwanyanje, Gertrude Mbeyu, KILIFI COUNTY, ODM - NO
+119. Mnyazi, Amina Laura, MALINDI, ODM - SUSPENDED
+120. Nabii, Nabwera Daraja, LUGARI, ODM - NO
+121. Nabulindo, Peter Oscar, MATUNGU, ODM - ABSENT
+122. Naibun, Paul Ekwom, TURKANA NORTH, ODM - ABSENT
+123. Naicca, Johnson Manya, MUMIAS WEST, ODM - ABSENT
+124. Namoit, John Ariko, TURKANA SOUTH, ODM - ABSENT
+125. Ng’ongo, John Mbadi, NOMINATED, ODM - ABSENT
+126. Nyamita, Mark Ogolla, URIRI, ODM - ABSENT
+127. Nyikal, James Wambura, SEME, ODM - NO
+128. Obara, Eve Akinyi, KABONDO KASIPUL, ODM - ABSENT
+129. Odanga, Geoffrey Makokha, MATAYOS, ODM - NO
+130. Odege, Tom Mboya, NYATIKE, ODM - NO
+131. Odhiambo, Elisha Ochieng, GEM, ODM - YES
+132. Odhiambo, Millie Grace Akoth, SUBA NORTH, ODM - SUSPENDED
+133. Odoyo, Okello Jared, NYANDO, ODM - NO
+134. Oduor, Christine Ombaka, SIAYA COUNTY, ODM - NO
+135. Ogolla, Gideon Ochanda, BONDO, ODM - ABSENT
+136. Oku, Edward Kaunya, TESO NORTH, ODM - NO
+137. Okuome, Andrew Adipo, KARACHUONYO, ODM - NO
+138. Oluoch, Anthony Tom, MATHARE, ODM - NO
+139. Omanyo, Catherine Nakhabi, BUSIA COUNTY, ODM - SUSPENDED
+140. Omondi, Caroli, SUBA SOUTH, ODM - YES
+141. Omwera, George Aladwa, MAKADARA, ODM - ABSENT
+142. Ongili, Babu Owino Paul, EMBAKASI EAST, ODM - ABSENT
+143. Orero, Peter Ochieng, KIBRA, ODM - NO
+144. Oron, Joshua Odongo, KISUMU CENTRAL, ODM - NO
+145. Osero, Patrick Kibagendi, BORABU, ODM - NO
+146. Osogo, Bensuda Joyce Atieno, HOMA BAY COUNTY, ODM - ABSENT
+147. Oundo, Wilberforce Ojiambo, FUNYULA, ODM - ABSENT
+148. Owino, John Walter, AWENDO, ODM - ABSENT
+149. Owino, Martin Peters Wuod Chief, NDHIWA, ODM - NO
+150. Owuor, Joshua Aduma, NYAKACH, ODM - NO
+151. Oyoo, James Onyango, MUHORONI, ODM - NO
+152. Oyula, Joseph H. Maero, BUTULA, ODM - ABSENT
+153. Passaris, Esther Muthoni, NAIROBI CITY COUNTY, ODM - YES
+154. Sakimba, Parashina Samuel, KAJIADO SOUTH, ODM - ABSENT
+155. Shimbwa, Omar Mwinyi, CHANGAMWE, ODM - NO
+156. Shinali, Bernard Masaka, IKOLOMANI, ODM - NO
+157. Wandayi, James Opiyo, UGUNJA, ODM - NO
+158. Wangaya, Christopher Aseka, KHWISERO, ODM - ABSENT
+159. Wangwe, Emmanuel, NAVAKHOLO, ODM - ABSENT
+160. Wanjala, Raphael Sauti Bitta, BUDALANGI, ODM - NO
+161. Were, Sir Charles Ong’ondo, KASIPUL, ODM - NO
+162. Wetangula, Timothy Wanyonyi, WESTLANDS, ODM - NO
+163. Mupe, Anthony Kenga, RABAI, PAA - YES
+164. Rai, Samuel Gonzi, KINANGO, PAA - YES
+165. Tungule, Charo Kenneth Kazungu, GANZE, PAA - YES
+166. Kiunjuri, Festus Mwangi, LAIKIPIA EAST, TSP - YES
+167. Nduyo, Susan Ngugi, THARAKA NITHI COUNTY, TSP - YES
+168. Akuja, Protus Ewesit, LOIMA, UDA - YES
+169. Alfah, Miruka Ondieki, BOMACHOGE CHACHE, UDA - YES
+170. Ali, Abdisirat Khalif, NOMINATED, UDA - YES
+171. Bader, Salim Feisal, MSAMBWENI, UDA - YES
+172. Barre, Hussein Abdi, TARBAJ, UDA - ABSENT
+173. Barrow, Dekow Mohamed, GARISSA TOWNSHIP, UDA - ABSENT
+174. Bartoo, Phylis Jepkemoi, MOIBEN, UDA - YES
+175. Baya, Owen Yaa, KILIFI NORTH, UDA - YES
+176. Biego, Paul Kibichy, CHESUMEI, UDA -YES 
+177. Bowen, David Kangogo, MARAKWET EAST, UDA - YES
+178. Chebor, Paul Kibet, RONGAI, UDA - YES
+179. Chege, John Kiragu, LIMURU, UDA - YES
+180. Chelule, Liza Chepkorir, NAKURU COUNTY, UDA - YES
+181. Chepkonga, Kiprono Samwel, AINABKOI, UDA - YES
+182. Chepkorir, Linet Toto, BOMET COUNTY, UDA - YES
+183. Chepkwony, Charity Kathambi, NJORO, UDA - YES
+184. Cherorot, Joseph Kimutai, KIPKELION EAST, UDA - YES
+185. Chesebe, Fred Kapondi, MT ELGON, UDA - YES
+186. Chumel, Samwel Moroto, KAPENGURIA, UDA - YES
+187. Double N, Pamela Njoki Njeru, EMBU COUNTY, UDA - ABSENT
+188. Emathe, Joseph Namuar, TURKANA CENTRAL, UDA - YES
+189. Gachagua, George N., NDARAGWA, UDA - ABSENT
+190. Gachobe, Samuel Kinuthia, SUBUKIA, UDA - YES
+191. Gakuya, James Mwangi, EMBAKASI NORTH, UDA - YES
+192. Gathiru, Mejjadonk Benjamin, EMBAKASI CENTRAL, UDA - YES
+193. Gichohi, Kaguchia John Philip, MUKURWEINI, UDA - YES
+194. Gichuki, Edwin Mugo, MATHIOYA, UDA - YES
+195. Gikaria, David, NAKURU TOWN EAST, UDA - YES
+196. Gitari, Joseph Gachoki, KIRINYAGA CENTRAL, UDA - ABSENT
+197. Gitau, Faith Wairimu, NYANDARUA COUNTY, UDA - YES
+198. Githinji, Robert Gichimu, GICHUGU, UDA - YES
+199. GK, George Macharia Kariuki, NDIA, UDA - YES
+200. Ichung’wah, Anthony Kimani, KIKUYU, UDA - YES
+201. Ikiara, Dorothy Muthoni, NOMINATED, UDA - YES
+202. Iraya, Joseph Wainaina, NOMINATED, UDA - YES
+203. Jhanda Zaheer, NYARIBARI CHACHE, UDA - ABSENT
+204. Kagiri, Jane Wangechi, LAIKIPIA COUNTY, UDA - ABSENT
+205. Kagombe, Gabriel Gathuka, GATUNDU SOUTH, UDA - YES
+206. Kahangara, Joseph Mburu, LARI, UDA - YES
+207. Kahugu, Eric Meangi, MATHIRA, UDA - YES
+208. Kailema, Elizabeth Karambu, MERU COUNTY, UDA - YES
+209. Kamuren, Charles, BARINGO SOUTH, UDA - YES
+210. Kandie, Joshua Chepyegon, BARINGO CENTRAL, UDA - YES
+211. Karani, Stephen Wachira, LAIKIPIA WEST, UDA - YES
+212. Karemba, Eric Muchangi Njiru, RUNYENJES, UDA - ABSENT
+213. Kemei, Beatrice Chepng’eno, KERICHO COUNTY, UDA - YES
+214. Kemei, Justice Kipsang, SIGOWET/SOIN, UDA - YES
+215. Kemero, Maisori Marwa Kitayama, KURIA EAST, UDA - YES
+216. Kihara, Jayne Wanjiru Njeru, NAIVASH, UDA - YES
+217. Kihungi, Peter Irungu, KANGEMA, UDA - ABSENT
+218. Kilel, Richard Cheruiyot, BOMET CENTRAL, UDA - YES
+219. Kimani, Francis Kuria, MOLO, UDA - YES
+220. Kingara, Simon Ng’ang’a, RUIRU, UDA - YES
+221. Kipbiwot, Julius Melly, TINDERET, UDA - YES
+222. Kipngor, Reuben Kiborek, MOGOTIO, UDA - YES
+223. Kipkoech, Gideon Kimaiyo, KEIYO SOUTH, UDA - YES
+224. Kipkoros, Joseph Makilap, BARINGO NORTH, UDA - YES
+225. Kiplagat, David, SOY, UDA - ABSENT
+226. Kiprono, Mutai Alfred, KURESOI NORTH, UDA - YES
+227. Kipyegon, Johana Ng’eno, EMURUA DIKIRR, UDA - YES
+228. Kirima, Moses Nguchine, IMENTI CENTRAL, UDA - YES
+229. Kirwa, Abraham Kipsang, MOSOP, UDA - ABSENT
+230. Kitany, Marianne Jebet, ALDAI, UDA - YES
+231. Kitur, Bernard Kibor, NANDI HILLS, UDA - YES
+232. Koech, Nelson, BELGUT, UDA - YES
+233. Komingoi, Kibet Kirui, BURETI, UDA - YES
+234. Korir, Adams Kipsanai, KEIYO NORTH, UDA - YES
+235. Kosgei, Hilary Kiplangat, KIPKELION WEST, UDA - YES
+236. Kosgei, Jackson Kipkemoi, NOMINATED, UDA - YES
+237. Langat, Benjamin Kipkirui, AINAMOI, UDA - YES
+238. Lelmengit, Josses Kiptoo Kosgey, EMGWEN, UDA - YES
+239. Lemanken, Aramat, NAROK EAST, UDA - YES
+240. Lenguris, Pauline, SAMBURU COUNTY, UDA - YES
+241. Letipila, Dominic Eli, SAMBURU NORTH, UDA - YES
+242. Lochakapong, Peter, SIGOR, UDA - YES
+243. Logova, Sloya Clement, SABATIA, UDA - YES
+244. M’Anaiba, Julius Taitumu, IGEMBE NORTH, UDA - YES
+245. Maina, Betty Njeri, MURANGA COUNTY, UDA - YES
+246. Maina, Jane Njeri, KIRINYAGA COUNTY, UDA - YES
+247. Maingi, Mary, MWEA, UDA - YES
+248. Mathenge, Duncan Maina, NYERI TOWN, UDA - YES
+249. Mbai, Nimrod Mbithuka, KITUI EAST, UDA - ABSENT
+250. Mbiuki, Japhet Miriti Kareke, MAARA, UDA - YES
+251. Mizighi, Lydia Haika Mnene, TAITA TAVETA, UDA - YES
+252. Mohamed, Mohamed Ali, NYALI, UDA - ABSENT
+253. Mokaya, Nyakundi Japheth, KITUTU CHACHE NORTH, UDA - YES
+254. Muchira, Michael Mwangi, OL JOROK, UDA - YES
+255. Muge, Cynthia Jepkosgei, NANDI COUNTY, UDA - ABSENT
+256. Muhia, Wanjiku, KIPIPIRI, UDA - YES
+257. Mukunji, John Gitonga Mwaniki, MANYATTA, UDA - YES
+258. Munyoro, Joseph Kamau, KIGUMO, UDA - YES
+259. Muratha, Anne Wanjiku Mugo, KIAMBU COUNTY, UDA - ABSENT
+260. Muriu, Wakili Edward, GATANGA, UDA - ABSENT
+261. Murugara, George Gitonga, THARAKA, UDA - ABSENT
+262. Murwithania, Rindikiri Mugambi, BUURI, UDA - YES
+263. Musau, Vincent Musyoka, MWALA, UDAC- ABSENT
+264. Mutua, Didmus Wekesa Barasa, KIMILILI, UDA - YES
+265. Mutunga, John Kanyuithia, TIGANIA WEST, UDA - YES
+266. Mwafrika, Augustine Kamande, ROYSAMBU, UDA - YES
+267. Mwangi, Geoffrey Wandeto, TETU, UDA - YES
+268. Mwangi, Teresia Wanjiru, NOMINATED, UDA - YES
+269. Mwiring, John Paul, IGEMBE SOUTH, UDA - YES
+270. Nanok, Daniel Epuyo, TURKANA WEST, UDA - YES
+271. Ndung’u George Koimburi, JUJA, UDA - YES
+272. Ng’ang’a Alice Wambui, THIKA TOWN, UDA - YES
+273. Ngitit, Cecilia Asinyen, TURKANA COUNTY, UDA - YES
+274. Nguro, Onesmus Ngogoyo, KAJIADO NORTH, UDA - YES
+275. Njoroge, Mary Wamaua Waithira, MARAGWA, UDA - ABSENT
+276. Njuguna, Chege, KANDARA, UDA - YES
+277. Ntwiga, Patrick Munene, CHUKA/IGAMBANG'OMBE, UDA - YES
+278. Nyamoko, Joash Nyamache, NORTH MUGIRANGO, UDA - YES
+279. Nyoro, Samson Ndindi, KIHARU, UDA - YES
+280. Onyiego, Silvanus Osoro, SOUTH MUGIRANGO, UDA - YES
+281. Otucho, Mary Emaase, TESO SOUTH, UDA - YES
+282. Pukose, Robert (Dr.), ENDEBESS, UDA - YES
+283. Raso, Dido Ali, SAKU, UDA - YES
+284. Risa, Sunkuiya George, KAJIADO WEST, UDA - ABSENT
+285. Robi, Mathias Nyamabe, KURIA WEST, UDA - YES
+286. Rutto, Julius Kipletting, KESSES, UDA - ABSENT
+287. Saney, Ibrahim Abdi, WAJIR NORTH, UDA - ABSENT
+288. Sankaire, Leah Sopiato, KAJIADO COUNTY, UDA - YES
+289. Sergon, Flowrence Jematiah, BARINGO COUNTY, UDA - YES
+290. Shollei, Gladys Jepkosgei Boss, UASIN GISHU, UDA - ABSENT
+291. Sigei, Francis Kipyegon arap, SOTIK, UDA - YES
+292. Sirma, Musa Cherutich, ELDAMA RAVINE, UDA - YES
+293. Sitati, Daniel Wanyama, WEBUYE WEST, UDA - YES
+294. Sitienei, Janet Jepkemboi, TURBO, UDA - YES
+295. Siyoi, Lillian Chebet, TRANS NZOIA, UDA - YES
+296. Sudi, Oscar Kipchumba, KAPSERET, UDA - ABSENT
+297. Tongoyo, Gabriel Koshal, NAROK WEST, UDA - YES
+298. Tonkei, Rebecca Noonaishi, NAROK COUNTY, UDA - YES
+299. Tonui, Joseph Kipkosgei, KURESOI SOUTH, UDA - YES
+300. Wachira, Rahab Mukami, NYERI COUNTY, UDA - YES
+301. Wainaina, Antony Njoroge, KIENI, UDA - YES
+302. Wainaina, Michael Wambugu, OTHAYA, UDA - YES
+303. Waithaka, John Machua, KIAMBU, UDA - YES
+304. Wamacukuru, James Githua Kamau, KABETE, UDA - YES
+305. Wamuchomba, Gathoni, GITHUNGURI, UDA - NO
+306. John Njuguna Kawanjiku, KIAMBAA, UDA - YES
+307. Wanjira, Martha Wangari, GILGIL, UDA - YES
+308. Waqo, Naomi Jillo, MARSABIT COUNTY, UDA - YES
+309. Waweru, John Kiarie, DAGORETTI SOUTH, UDA - YES
+310. Yakub, Farah Salah, FAFI, UDA - YES
+311. Yegon, Brighton Leonard, KONOIN, UDA - YES
+312. Yegon, Richard Kipkemoi, BOMET EAST, UDA - YES
+313. Abdullahi, Bashir Sheikh, MANDERA NORTH, UDM - YES
+314. Chiforomodo, Mangale Munga, LUNGA LUNGA, UDM - YES
+315. Haro, Abdul Ebrahim, MANDERA SOUTH, UDM - YES
+316. (Kullow Maalim Hassan -Deceased) - BANISSA - VACANT
+317. Harun, Suleka Hulbale, NOMINATED, UDM - YES
+318. Lekuton, Joseph, LAISAMIS, UDM - ABSENT
+319. Sheikh, Umul Ker Kassim, MANDERA COUNTY, UDM - YES
+320. Yussuf, Adan Haji, MANDERA WEST, UDM - ABSENT
+321. Onchoke Charles, BONCHARI, UPA - NO
+322. Jaldesa, Guyo Waqo, MOYALE, UPIA - NO
+323. Yakub, Adow Kuno, BURA, UPIA - YES
+324. Abdi, Khamis Chome, VOI, WIPER - ABSENT
+325. Aburi, Donya Dorice, KISII COUNTY, WIPER - NO
+326. Basil, Robert Ngui, YATTA, WIPER - NO
+327. Bwire, John Okano, TAVETA, WIPER - NO
+328. Kamene, Joyce, MACHAKOS COUNTY, WIPER - NO
+329. Kasalu, Irene Muthoni, KITUI COUNTY, WIPER - ABSENT
+330. Kiamba, Suzanne Ndunge, MAKUENI COUNTY, WIPER - ABSENT
+331. Kimilu, Joshua Kivinda, KAITI, WIPER - NO
+332. King’ola Patrick Makau, MAVOKO, WIPER - ABSENT
+333. Maalim, Farah, DADAAB, WIPER - ABSENT
+334. Mawathe, Julius Musili, EMBAKASI SOUTH, WIPER - NO
+335. Mbalu, Jessica Nduku Kiko, KIBWEZI EAST, WIPER - NO
+336. Mboni, David Mwalika, KITUI RURAL, WIPER - NO
+337. Mbui, Robert, KATHIANI, WIPER - NO
+338. Momanyi, Innocent Obiri, BOMACHOGE BORABU, WIPER - ABSENT
+339. Mule, Stephen Mutinda, MATUNGULU, WIPER - ABSENT
+340. Mulu, Makali Benson, KITUI CENTRAL, WIPER - YES
+341. Mulyungi, Gideon Mutemi, MWINGI CENTRAL, WIPER - NO
+342. Mumo, Rose Museo, MAKUENI COUNTY, WIPER - NO
+343. Mwakuwona, Danson Mwashako, WUNDANYI, WIPER - NO
+344. Nguna, Charles Ngusya, MWINGI WEST, WIPER - NO
+345. Nyenze, Edith Vethi, KITUI WEST, WIPER - NO
+346. Nzambia, Thudeeus Kithua, KILOME, WIPER - NO
+347. Nzengu, Paul Musyimi, MWINGI NORTH, WIPER - ABSENT
+348. Nzioka, Erastus Kivasu, MBOONI, WIPER - NO
+349. Twalib, Abubakar Ahmed, NOMINATED, WIPER - YES
