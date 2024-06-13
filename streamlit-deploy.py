@@ -1,11 +1,4 @@
 import streamlit as st
-import tensorflow as tf
-from tensorflow.keras.preprocessing import image
-import numpy as np
-import PIL
-
-
-import streamlit as st
 import pandas as pd
 
 # Load your DataFrame
@@ -47,7 +40,7 @@ with st.form("my_form"):
 # input_query = st.text_input("Enter the name of your constituency")
 
 # uploaded_file = st.file_uploader("Choose an image...", type="jpg")
-normalized_counts = pd.DataFrame(df['Vote'].value_counts())
+normalized_counts = pd.DataFrame(df['Vote'].value_counts(ascending=False))
 
 # Plot bar chart
 
@@ -55,7 +48,7 @@ st.bar_chart(normalized_counts, x=None, y='Vote')
 
 
 
-st.subheader("Full record")
+st.subheader("Full records")
 st.dataframe(data=df, use_container_width = True)
 
 
