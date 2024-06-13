@@ -36,15 +36,15 @@ with st.form("my_form"):
    
 
 
-# Upload image through Streamlit
-# input_query = st.text_input("Enter the name of your constituency")
+# # Upload image through Streamlit
+# # input_query = st.text_input("Enter the name of your constituency")
 
-# uploaded_file = st.file_uploader("Choose an image...", type="jpg")
-normalized_counts = pd.DataFrame(df['Vote'].value_counts(ascending=False))
+# # uploaded_file = st.file_uploader("Choose an image...", type="jpg")
+# normalized_counts = pd.DataFrame(df['Vote'].value_counts(ascending=False))
 
-# Plot bar chart
+# # Plot bar chart
 
-st.bar_chart(normalized_counts, x=None, y='Vote')
+# st.bar_chart(normalized_counts, x=None, y='Vote')
 
 
 
