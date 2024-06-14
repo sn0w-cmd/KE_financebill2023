@@ -48,7 +48,7 @@ Lomwa,Joseph Samal,ISOLO NORTH,JUBILEE,ABSENT
 Maina,Mwago Amos,STAREHE,JUBILEE,YES
 Mogaka,Stephen M.,WEST MUGIRANGO,JUBILEE,YES
 Mohamed,Aden Daudi,WAJIR EAST,JUBILEE,YES
-Jerusha Momanyi,NYAMIRA COUNTY,ABSENT,JUBILEE,
+Jerusha, Momanyi,NYAMIRA COUNTY,JUBILEE,ABSENT
 Mrembo,Irene Njoki,BAHATI,JUBILEE,YES
 Muiruri,Muthama Stanley,LAMU WEST,JUBILEE,ABSENT
 Mwenje,Mark Muriithi,EMBAKASI WEST,JUBILEE,NO
@@ -79,11 +79,11 @@ Abdirahman,Hussein Weytan,MANDERA EAST,ODM,NO
 Abuor,Paul,RONGO,ODM,ABSENT
 Adow,Mohamed Aden,WAJIR SOUTH,ODM,YES
 Amollo,Paul Otiende,RARIEDA,ODM,ABSENT
-Samuel Onunga Atan Meli,ALEGO USONGA,ODM,NO,
+Samuel, Onunga Atan Meli,ALEGO USONGA,ODM,NO
 Bady,Bady Twalib,JOMVU,ODM,NO
 Barongo,Nolfason Obadiah,BOMACHOGE BORABU,ODM,NO
 Bedzimba,Rashid Juma,KISAUNI,ODM,NO
-Ruth Adhiambo Odinga,KISUMU COUNTY,ODM,NO,
+Ruth, Adhiambo Odinga,KISUMU COUNTY,ODM,NO
 Buyu,Rozaah Akinyi,KISUMU WEST,ODM,SUSPENDED
 Chimba,Zamzam Mohamed,MOMBASA,ODM,NO
 Elachi,Beatrice,DAGORETTI NORTH,ODM,NO
@@ -201,7 +201,7 @@ GK,George Macharia Kariuki,NDIA,UDA,YES
 Ichung’wah,Anthony Kimani,KIKUYU,UDA,YES
 Ikiara,Dorothy Muthoni,NOMINATED,UDA,YES
 Iraya,Joseph Wainaina,NOMINATED,UDA,YES
-Jhanda Zaheer,NYARIBARI CHACHE,UDA,ABSENT,
+Jhanda, Zaheer,NYARIBARI CHACHE,UDA,ABSENT
 Kagiri,Jane Wangechi,LAIKIPIA COUNTY,UDA,ABSENT
 Kagombe,Gabriel Gathuka,GATUNDU SOUTH,UDA,YES
 Kahangara,Joseph Mburu,LARI,UDA,YES
@@ -269,8 +269,8 @@ Mwangi,Geoffrey Wandeto,TETU,UDA,YES
 Mwangi,Teresia Wanjiru,NOMINATED,UDA,YES
 Mwiring,John Paul,IGEMBE SOUTH,UDA,YES
 Nanok,Daniel Epuyo,TURKANA WEST,UDA,YES
-Ndung’u George Koimburi,JUJA,UDA,YES,
-Ng’ang’a Alice Wambui,THIKA TOWN,UDA,YES,
+Ndung’u, George Koimburi,JUJA,UDA,YES
+Ng’ang’a, Alice Wambui,THIKA TOWN,UDA,YES
 Ngitit,Cecilia Asinyen,TURKANA COUNTY,UDA,YES
 Nguro,Onesmus Ngogoyo,KAJIADO NORTH,UDA,YES
 Njoroge,Mary Wamaua Waithira,MARAGWA,UDA,ABSENT
@@ -304,7 +304,7 @@ Wainaina,Michael Wambugu,OTHAYA,UDA,YES
 Waithaka,John Machua,KIAMBU,UDA,YES
 Wamacukuru,James Githua Kamau,KABETE,UDA,YES
 Wamuchomba,Gathoni,GITHUNGURI,UDA,NO
-John Njuguna Kawanjiku,KIAMBAA,UDA,YES,
+John, Njuguna Kawanjiku,KIAMBAA,UDA,YES
 Wanjira,Martha Wangari,GILGIL,UDA,YES
 Waqo,Naomi Jillo,MARSABIT COUNTY,UDA,YES
 Waweru,John Kiarie,DAGORETTI SOUTH,UDA,YES
@@ -314,12 +314,12 @@ Yegon,Richard Kipkemoi,BOMET EAST,UDA,YES
 Abdullahi,Bashir Sheikh,MANDERA NORTH,UDM,YES
 Chiforomodo,Mangale Munga,LUNGA LUNGA,UDM,YES
 Haro,Abdul Ebrahim,MANDERA SOUTH,UDM,YES
-(Kullow Maalim Hassan,Deceased),BANISSA,VACANT,
+Kullow, Maalim Hassan,(Deceased),BANISSA,VACANT
 Harun,Suleka Hulbale,NOMINATED,UDM,YES
 Lekuton,Joseph,LAISAMIS,UDM,ABSENT
 Sheikh,Umul Ker Kassim,MANDERA COUNTY,UDM,YES
 Yussuf,Adan Haji,MANDERA WEST,UDM,ABSENT
-Onchoke Charles,BONCHARI,UPA,NO,
+None, Onchoke Charles,BONCHARI,UPA,NO,
 Jaldesa,Guyo Waqo,MOYALE,UPIA,NO
 Yakub,Adow Kuno,BURA,UPIA,YES
 Abdi,Khamis Chome,VOI,WIPER,ABSENT
@@ -330,7 +330,7 @@ Kamene,Joyce,MACHAKOS COUNTY,WIPER,NO
 Kasalu,Irene Muthoni,KITUI COUNTY,WIPER,ABSENT
 Kiamba,Suzanne Ndunge,MAKUENI COUNTY,WIPER,ABSENT
 Kimilu,Joshua Kivinda,KAITI,WIPER,NO
-King’ola Patrick Makau,MAVOKO,WIPER,ABSENT,
+King’ola, Patrick Makau,MAVOKO,WIPER,ABSENT,
 Maalim,Farah,DADAAB,WIPER,ABSENT
 Mawathe,Julius Musili,EMBAKASI SOUTH,WIPER,NO
 Mbalu,Jessica Nduku Kiko,KIBWEZI EAST,WIPER,NO
