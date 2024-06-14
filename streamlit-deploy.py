@@ -30,7 +30,7 @@ if submitted:
     input_query = input_query.upper()
     updated_df = df[df["Constituency"].str.contains(input_query)]
 
-    st.dataframe(data=updated_df, column_order=("Other Names", "Vote", "Constituency"), hide_index=True)
+    st.dataframe(data=updated_df, column_order=("Other Names", "Constituency", "Vote"), hide_index=True)
 
 
 
