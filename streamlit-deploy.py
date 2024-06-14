@@ -25,16 +25,15 @@ st.title("How did your MP Vote on the Finance Bill 2024?",)
 
 
 
-with st.form("my_form"):
-#    st.write("Inside the form")
-   input_query = st.text_input("Enter the name of your constituency (or county for woman rep)")
-   submitted = st.form_submit_button("Search")
-   if submitted:
-       input_query = input_query.upper()
-       updated_df = df[df["Constituency"].str.contains(input_query)]
-       st.dataframe(data=updated_df, use_container_width = True)
-   
 
+# with st.form("my_form"):
+input_query = st.text_input("Enter the name of your constituency (or county for woman rep)")
+submitted = st.button("Search")
+if submitted:
+    input_query = input_query.upper()
+    updated_df = df[df["Constituency"].str.contains(input_query)]
+
+    st.dataframe(data=updated_df, column_order=("Other Names", "Vote", "Constituency"), hide_index=True)
 
 # # Upload image through Streamlit
 # # input_query = st.text_input("Enter the name of your constituency")
@@ -49,7 +48,7 @@ with st.form("my_form"):
 
 
 st.subheader("Full records")
-st.dataframe(data=df, use_container_width = True)
+st.dataframe(data=df)
 
 
 # # Upload image through Streamlit
